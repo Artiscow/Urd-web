@@ -6,7 +6,7 @@
 
 # Urd
 
-Dette repoet ER nettsiden din: en avhengighetsfri, statisk side der `/admin` er den visuelle editoren. Ingen bygging, ingen npm - det som ligger her, er det som serveres.
+Dette repoet er nettsiden din: en avhengighetsfri, statisk side der `/admin` er den visuelle editoren. Ingen bygging, ingen npm - det som ligger her, er det som serveres.
 
 ## Kom i gang
 
