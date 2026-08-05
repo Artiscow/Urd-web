@@ -4,8 +4,7 @@
     "title": "Urd",
     "lang": "no",
     "description": "Urd sin testside",
-    "icon": "/media/ikon-9740643c.webp",
-    "setup": true
+    "icon": "/media/ikon-9740643c.webp"
   },
   "breakpoints": {
     "mobile": 640
@@ -79,14 +78,8 @@
     "version": 1,
     "scroll": "shrink",
     "logo": {
-      "type": "image",
-      "value": "/media/logo-0e227b01.svg",
-      "size": 40,
-      "order": "image-first",
-      "bold": false,
-      "italic": false,
-      "font": "'Trebuchet MS', sans-serif",
-      "radius": 0
+      "type": "text",
+      "value": "Urd"
     },
     "items": [
       {

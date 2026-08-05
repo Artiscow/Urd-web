@@ -64,8 +64,8 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 19.4,
-              "y": 256,
+              "x": 19.09,
+              "y": 240,
               "w": 16.42,
               "h": 32,
               "z": 1,
@@ -86,10 +86,10 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 19.4,
+              "x": 19.09,
               "y": 320,
-              "w": 19.4,
-              "h": 64,
+              "w": 18.91,
+              "h": 96,
               "z": 1,
               "rot": 0
             },
@@ -109,66 +109,10 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 19.38,
-              "y": 400,
+              "x": 19.05,
+              "y": 448,
               "w": 20,
               "h": 32,
-              "z": 1,
-              "rot": 0
-            },
-            "mobile": null
-          }
-        },
-        {
-          "id": "blk-ef036d5f",
-          "type": "kalender",
-          "version": 1,
-          "props": {
-            "sources": [
-              "https://calendar.google.com/calendar/ical/74a6de6d28a7a0ec383148bb2f67025d09712386e8b6add3d425fc0d9b5320f7%40group.calendar.google.com/public/basic.ics"
-            ],
-            "view": "list",
-            "limit": 4,
-            "showCategories": true,
-            "showSubscribe": false
-          },
-          "animation": null,
-          "frames": {
-            "desktop": {
-              "x": 59.54,
-              "y": 240,
-              "w": 25.33,
-              "h": 299,
-              "z": 2,
-              "rot": 0
-            },
-            "mobile": null
-          }
-        },
-        {
-          "id": "blk-00298c94",
-          "type": "text",
-          "version": 1,
-          "decor": false,
-          "props": {
-            "html": "<h3><br></h3>",
-            "align": "left",
-            "box": true,
-            "boxStyle": {
-              "glass": true,
-              "border": {
-                "color": "accent",
-                "width": 1
-              }
-            }
-          },
-          "animation": null,
-          "frames": {
-            "desktop": {
-              "x": 58.3,
-              "y": 208,
-              "w": 29.63,
-              "h": 400,
               "z": 1,
               "rot": 0
             },
