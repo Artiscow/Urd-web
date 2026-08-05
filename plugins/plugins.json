@@ -3,9 +3,8 @@
   "enabled": [
     "kalender",
     "skjema",
-    "kart"
-  ],
-  "disabled": [
+    "kart",
     "sprak-svensk"
-  ]
+  ],
+  "disabled": []
 }
