@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 4,
   "meta": {
     "id": "hjem",
     "title": "Hjem"
@@ -10,7 +10,7 @@
       "version": 1,
       "preset": "hero",
       "size": {
-        "minHeight": "1360px"
+        "minHeight": "1152px"
       },
       "grid": null,
       "background": {
@@ -67,7 +67,7 @@
               "x": 19.09,
               "y": 240,
               "w": 16.42,
-              "h": 32,
+              "h": 80,
               "z": 1,
               "rot": 0
             },
@@ -118,6 +118,30 @@
             },
             "mobile": null
           }
+        },
+        {
+          "id": "blk-75019177",
+          "type": "kalender",
+          "version": 1,
+          "props": {
+            "sources": [],
+            "view": "list",
+            "limit": 6,
+            "showCategories": true,
+            "showSubscribe": true
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 50,
+              "y": 240,
+              "w": 33.33,
+              "h": 163,
+              "z": 2,
+              "rot": 0
+            },
+            "mobile": null
+          }
         }
       ],
       "responsive": {
@@ -132,7 +156,7 @@
       "version": 1,
       "preset": "hva-skjer",
       "size": {
-        "minHeight": "1280px"
+        "minHeight": "1328px"
       },
       "grid": null,
       "background": {
@@ -204,7 +228,7 @@
           "frames": {
             "desktop": {
               "x": 13.19,
-              "y": 288,
+              "y": 336,
               "w": 28.26,
               "h": 272,
               "z": 1,
@@ -228,7 +252,7 @@
           "frames": {
             "desktop": {
               "x": 55.09,
-              "y": 160,
+              "y": 208,
               "w": 36.57,
               "h": 608,
               "z": 3,

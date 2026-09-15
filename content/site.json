@@ -1,10 +1,10 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "site": {
     "title": "Urd",
     "lang": "no",
     "description": "Urd sin testside",
-    "icon": "/media/ikon-9740643c.webp"
+    "icon": "/media/ikon-21e25d2a.webp"
   },
   "breakpoints": {
     "mobile": 640
@@ -78,8 +78,9 @@
     "version": 1,
     "scroll": "shrink",
     "logo": {
-      "type": "text",
-      "value": "Urd"
+      "type": "image",
+      "value": "/media/logo-dd2657da.svg",
+      "size": 32
     },
     "items": [
       {
@@ -120,7 +121,7 @@
       "hoverTextColor": "#00fff5"
     },
     "overlay": true,
-    "variant": "floating-square"
+    "variant": "floating-tab"
   },
   "footer": {
     "version": 1,
@@ -221,5 +222,9 @@
       }
     ],
     "copyright": "© Min forening"
+  },
+  "layout": {
+    "contentWidth": 1440,
+    "gutter": 6
   }
 }
