@@ -133,12 +133,10 @@
         "bg": "accent",
         "blur": true
       },
-      "sheetLogo": true
+      "sheetLogo": true,
+      "sheetTheme": true
     },
     "overlay": true,
-    "cart": {
-      "show": true
-    },
     "announcement": {
       "show": true,
       "text": "Urd 0.7.4"
