@@ -76,7 +76,6 @@
   ],
   "nav": {
     "version": 1,
-    "scroll": "shrink",
     "logo": {
       "type": "image",
       "value": "/media/logo-145f56a1.svg",
@@ -118,10 +117,32 @@
       },
       "topGap": false,
       "textColor": "#ffffff",
-      "hoverTextColor": "#00fff5"
+      "hoverTextColor": "#00fff5",
+      "border": {
+        "side": "bottom",
+        "color": "accent",
+        "width": 5
+      },
+      "atTop": "clear",
+      "mobileMenu": "sheet",
+      "hover": "underline",
+      "inset": true,
+      "sheetMotion": "right",
+      "sheet": {
+        "bgOpacity": 0.77,
+        "bg": "accent",
+        "blur": true
+      },
+      "sheetLogo": true
     },
     "overlay": true,
-    "variant": "floating-tab"
+    "cart": {
+      "show": true
+    },
+    "announcement": {
+      "show": true,
+      "text": "Urd 0.7.4"
+    }
   },
   "footer": {
     "version": 1,

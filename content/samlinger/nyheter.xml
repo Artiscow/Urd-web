@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Nyheter</title>
+    <link>https://urd-web.pages.dev/</link>
+    <description>Nyheter</description>
+    <item>
+      <title>Nytt innslag</title>
+      <link>https://urd-web.pages.dev/</link>
+      <guid isPermaLink="false">/content/samlinger/nyheter.xml#entry-95f99db2</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nytt innslag</title>
+      <link>https://urd-web.pages.dev/</link>
+      <guid isPermaLink="false">/content/samlinger/nyheter.xml#entry-1acb2790</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nytt innslag</title>
+      <link>https://urd-web.pages.dev/</link>
+      <guid isPermaLink="false">/content/samlinger/nyheter.xml#entry-932fe52e</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nytt innslag</title>
+      <link>https://urd-web.pages.dev/</link>
+      <guid isPermaLink="false">/content/samlinger/nyheter.xml#entry-013f8e3b</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nytt innslag</title>
+      <link>https://urd-web.pages.dev/</link>
+      <guid isPermaLink="false">/content/samlinger/nyheter.xml#entry-ee1c5394</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -66,7 +66,7 @@
             "desktop": {
               "x": 19.09,
               "y": 240,
-              "w": 16.42,
+              "w": 23.33,
               "h": 80,
               "z": 1,
               "rot": 0
@@ -86,10 +86,10 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 19.09,
+              "x": 19.1,
               "y": 320,
-              "w": 18.91,
-              "h": 96,
+              "w": 23.33,
+              "h": 64,
               "z": 1,
               "rot": 0
             },
@@ -109,8 +109,8 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 19.05,
-              "y": 448,
+              "x": 23.8,
+              "y": 1179,
               "w": 20,
               "h": 32,
               "z": 1,
@@ -134,10 +134,60 @@
           "frames": {
             "desktop": {
               "x": 50,
-              "y": 240,
+              "y": 253,
               "w": 33.33,
               "h": 163,
               "z": 2,
+              "rot": 0
+            },
+            "mobile": null
+          }
+        },
+        {
+          "id": "blk-1910d057",
+          "type": "collection",
+          "version": 1,
+          "decor": false,
+          "hideMobile": false,
+          "props": {
+            "collection": "nyheter",
+            "view": "cards",
+            "limit": 6,
+            "newestFirst": true
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 5.56,
+              "y": 576,
+              "w": 88.89,
+              "h": 304,
+              "z": 3,
+              "rot": 0
+            },
+            "mobile": null
+          }
+        },
+        {
+          "id": "blk-8d71b38d",
+          "type": "collection",
+          "version": 1,
+          "decor": false,
+          "hideMobile": false,
+          "props": {
+            "collection": "publikasjoner",
+            "view": "cards",
+            "limit": 6,
+            "newestFirst": true
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 5.56,
+              "y": 880,
+              "w": 88.89,
+              "h": 208,
+              "z": 5,
               "rot": 0
             },
             "mobile": null
@@ -227,8 +277,8 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 13.19,
-              "y": 336,
+              "x": 11.11,
+              "y": 1216,
               "w": 28.26,
               "h": 272,
               "z": 1,
@@ -251,11 +301,36 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 55.09,
-              "y": 208,
+              "x": 53.01,
+              "y": 1088,
               "w": 36.57,
               "h": 608,
               "z": 3,
+              "rot": 0
+            },
+            "mobile": null
+          }
+        },
+        {
+          "id": "blk-4c5e1c14",
+          "type": "collection",
+          "version": 1,
+          "decor": false,
+          "hideMobile": false,
+          "props": {
+            "collection": "oppslag",
+            "view": "cards",
+            "limit": 6,
+            "newestFirst": true
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 5.56,
+              "y": 32,
+              "w": 88.89,
+              "h": 208,
+              "z": 4,
               "rot": 0
             },
             "mobile": null

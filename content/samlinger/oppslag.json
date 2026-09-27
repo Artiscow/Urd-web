@@ -1,43 +1,39 @@
 {
   "schemaVersion": 1,
-  "id": "nyheter",
-  "name": "Nyheter",
-  "kind": "news",
+  "id": "oppslag",
+  "name": "Oppslag",
+  "kind": "notices",
   "entries": [
     {
-      "id": "entry-95f99db2",
+      "id": "entry-ba837e7d",
       "title": "Nytt innslag",
       "date": "2026-09-27",
       "text": ""
     },
     {
-      "id": "entry-1acb2790",
+      "id": "entry-f4731cfa",
       "title": "Nytt innslag",
       "date": "2026-09-27",
       "text": ""
     },
     {
-      "id": "entry-932fe52e",
-      "title": "Nytt innslag",
-      "date": "2026-09-27",
-      "text": ""
-    },
-    {
-      "id": "entry-013f8e3b",
+      "id": "entry-5f611de3",
       "title": "Nytt innslag",
       "date": "2026-09-27",
       "text": "",
-      "image": "/media/nytt-innslag-cdfcfc9c.webp"
+      "image": "/media/nytt-innslag-7ea17a40.webp"
     },
     {
-      "id": "entry-ee1c5394",
+      "id": "entry-27e6c70f",
       "title": "Nytt innslag",
       "date": "2026-09-27",
-      "text": "",
-      "image": "/media/nytt-innslag-a1874423.webp",
-      "imageStyle": {
-        "zoom": 1
-      }
+      "text": ""
+    },
+    {
+      "id": "entry-bc637f4e",
+      "title": "Nytt innslag",
+      "date": "2026-09-27",
+      "text": ""
     }
   ]
 }

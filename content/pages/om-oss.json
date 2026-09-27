@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 4,
   "meta": {
     "id": "om-oss",
     "title": "Om oss"
@@ -8,7 +8,7 @@
     {
       "id": "sec-82c3367e",
       "version": 1,
-      "preset": "hovedoppslag",
+      "preset": "lead-story",
       "size": {
         "minHeight": "976px"
       },
@@ -73,30 +73,6 @@
             "mobile": null
           },
           "mobileOrder": 40.01
-        },
-        {
-          "id": "blk-77137574",
-          "type": "button",
-          "version": 1,
-          "props": {
-            "label": "Les mer",
-            "page": null,
-            "href": "#",
-            "style": "secondary"
-          },
-          "animation": null,
-          "frames": {
-            "desktop": {
-              "x": 6.01,
-              "y": 676,
-              "w": 14,
-              "h": 38,
-              "z": 1,
-              "rot": 0
-            },
-            "mobile": null
-          },
-          "mobileOrder": 40.02
         },
         {
           "id": "blk-44969ed3",
@@ -193,6 +169,149 @@
             "mobile": null
           },
           "mobileOrder": 40.160000000000004
+        },
+        {
+          "id": "blk-77137574",
+          "type": "button",
+          "version": 1,
+          "props": {
+            "label": "Les mer",
+            "page": null,
+            "href": "#",
+            "style": "secondary"
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 70,
+              "y": 882,
+              "w": 14,
+              "h": 38,
+              "z": 1,
+              "rot": 0
+            },
+            "mobile": null
+          },
+          "mobileOrder": 40.02
+        }
+      ],
+      "responsive": {
+        "mobile": {
+          "mode": "auto",
+          "attention": null
+        }
+      }
+    },
+    {
+      "id": "sec-7e4e2e18",
+      "version": 1,
+      "preset": "hero",
+      "size": {
+        "minHeight": "70vh"
+      },
+      "grid": null,
+      "background": {
+        "version": 1,
+        "layers": [
+          {
+            "type": "gradient",
+            "version": 1,
+            "props": {
+              "stops": [
+                "#0b0e14",
+                "#1a1030"
+              ],
+              "angle": 160,
+              "animate": false
+            }
+          },
+          {
+            "type": "glow",
+            "version": 1,
+            "props": {
+              "x": 0.7,
+              "y": 0.2,
+              "color": "accent",
+              "radius": 0.5,
+              "opacity": 0.35
+            }
+          },
+          {
+            "type": "grain",
+            "version": 1,
+            "props": {
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      "blocks": [
+        {
+          "id": "blk-0660927d",
+          "type": "text",
+          "version": 1,
+          "props": {
+            "html": "<h1>Ny overskrift</h1>",
+            "align": "left",
+            "box": false
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 8.33,
+              "y": 40,
+              "w": 50,
+              "h": 38,
+              "z": 1,
+              "rot": 0
+            },
+            "mobile": null
+          }
+        },
+        {
+          "id": "blk-f029deab",
+          "type": "text",
+          "version": 1,
+          "props": {
+            "html": "<p>Skriv en kort introduksjon her.</p>",
+            "align": "left",
+            "box": false
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 8.33,
+              "y": 84,
+              "w": 41.67,
+              "h": 26,
+              "z": 1,
+              "rot": 0
+            },
+            "mobile": null
+          }
+        },
+        {
+          "id": "blk-054667df",
+          "type": "button",
+          "version": 1,
+          "props": {
+            "label": "Les mer",
+            "page": null,
+            "href": "#",
+            "style": "primary"
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 8.33,
+              "y": 118,
+              "w": 20,
+              "h": 32,
+              "z": 1,
+              "rot": 0
+            },
+            "mobile": null
+          }
         }
       ],
       "responsive": {
