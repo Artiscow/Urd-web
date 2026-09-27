@@ -139,7 +139,7 @@
     "overlay": true,
     "announcement": {
       "show": true,
-      "text": "Urd 0.7.4"
+      "text": "Dette er Urd sin testside etter Release"
     }
   },
   "footer": {
