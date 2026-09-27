@@ -10,7 +10,7 @@
       "version": 1,
       "preset": "hero",
       "size": {
-        "minHeight": "1152px"
+        "minHeight": "1312px"
       },
       "grid": null,
       "background": {
@@ -64,7 +64,7 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 19.09,
+              "x": 21.11,
               "y": 240,
               "w": 23.33,
               "h": 80,
@@ -86,33 +86,10 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 19.1,
-              "y": 320,
+              "x": 21.11,
+              "y": 352,
               "w": 23.33,
               "h": 64,
-              "z": 1,
-              "rot": 0
-            },
-            "mobile": null
-          }
-        },
-        {
-          "id": "blk-1f8cc2e3",
-          "type": "button",
-          "version": 1,
-          "props": {
-            "label": "Les mer",
-            "page": null,
-            "href": "https://github.com/Artiscow/Urd",
-            "style": "secondary"
-          },
-          "animation": null,
-          "frames": {
-            "desktop": {
-              "x": 17.78,
-              "y": 336,
-              "w": 20,
-              "h": 32,
               "z": 1,
               "rot": 0
             },
@@ -124,7 +101,9 @@
           "type": "kalender",
           "version": 1,
           "props": {
-            "sources": [],
+            "sources": [
+              "https://calendar.google.com/calendar/ical/apeironlinjeforening%40gmail.com/public/basic.ics"
+            ],
             "view": "list",
             "limit": 6,
             "showCategories": true,
@@ -133,10 +112,10 @@
           "animation": null,
           "frames": {
             "desktop": {
-              "x": 50,
-              "y": 253,
+              "x": 53.33,
+              "y": 48,
               "w": 33.33,
-              "h": 163,
+              "h": 518,
               "z": 2,
               "rot": 0
             },
@@ -159,7 +138,7 @@
           "frames": {
             "desktop": {
               "x": 5.56,
-              "y": 576,
+              "y": 704,
               "w": 88.89,
               "h": 304,
               "z": 3,
@@ -184,10 +163,33 @@
           "frames": {
             "desktop": {
               "x": 5.56,
-              "y": 880,
+              "y": 1024,
               "w": 88.89,
               "h": 208,
               "z": 5,
+              "rot": 0
+            },
+            "mobile": null
+          }
+        },
+        {
+          "id": "blk-1f8cc2e3",
+          "type": "button",
+          "version": 1,
+          "props": {
+            "label": "Les mer",
+            "page": null,
+            "href": "https://github.com/Artiscow/Urd",
+            "style": "secondary"
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 21.11,
+              "y": 432,
+              "w": 20,
+              "h": 32,
+              "z": 1,
               "rot": 0
             },
             "mobile": null
