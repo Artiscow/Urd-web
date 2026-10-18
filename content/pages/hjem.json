@@ -87,7 +87,7 @@
           "frames": {
             "desktop": {
               "x": 21.11,
-              "y": 352,
+              "y": 368,
               "w": 23.33,
               "h": 64,
               "z": 1,
@@ -110,7 +110,7 @@
           "frames": {
             "desktop": {
               "x": 21.11,
-              "y": 432,
+              "y": 487,
               "w": 20,
               "h": 32,
               "z": 1,
@@ -118,6 +118,78 @@
             },
             "mobile": null
           }
+        },
+        {
+          "id": "blk-0a3b8897",
+          "type": "calendar",
+          "version": 1,
+          "decor": false,
+          "hideMobile": false,
+          "props": {
+            "sources": [
+              {
+                "calendar": "cal-38fc198c"
+              }
+            ],
+            "view": "next",
+            "limit": 6,
+            "showCategories": false,
+            "showSubscribe": false,
+            "showSignup": false,
+            "design": "band",
+            "nextCount": 3,
+            "laterCount": 3
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 0,
+              "y": 0,
+              "w": 100,
+              "h": 55,
+              "z": 2,
+              "rot": 0
+            },
+            "mobile": null
+          },
+          "mobileHeight": 55,
+          "size": 1.2
+        },
+        {
+          "id": "blk-93f78571",
+          "type": "calendar",
+          "version": 1,
+          "decor": false,
+          "hideMobile": false,
+          "props": {
+            "sources": [
+              {
+                "calendar": "cal-38fc198c"
+              }
+            ],
+            "view": "cards",
+            "limit": 4,
+            "showCategories": false,
+            "showSubscribe": false,
+            "showSignup": false,
+            "design": "index",
+            "nextCount": 3,
+            "laterCount": 3,
+            "showOpen": false
+          },
+          "animation": null,
+          "frames": {
+            "desktop": {
+              "x": 53.34,
+              "y": 240,
+              "w": 43.33,
+              "h": 576,
+              "z": 3,
+              "rot": 0
+            },
+            "mobile": null
+          },
+          "mobileHeight": 985
         }
       ],
       "responsive": {
