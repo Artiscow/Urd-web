@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 7,
   "meta": {
     "id": "hjem",
     "title": "Hjem"
@@ -91,82 +91,6 @@
               "w": 23.33,
               "h": 64,
               "z": 1,
-              "rot": 0
-            },
-            "mobile": null
-          }
-        },
-        {
-          "id": "blk-75019177",
-          "type": "kalender",
-          "version": 1,
-          "props": {
-            "sources": [
-              "https://calendar.google.com/calendar/ical/apeironlinjeforening%40gmail.com/public/basic.ics"
-            ],
-            "view": "next",
-            "limit": 6,
-            "showCategories": false,
-            "showSubscribe": false
-          },
-          "animation": null,
-          "frames": {
-            "desktop": {
-              "x": 51.11,
-              "y": 271.5,
-              "w": 33.33,
-              "h": 161,
-              "z": 2,
-              "rot": 0
-            },
-            "mobile": null
-          }
-        },
-        {
-          "id": "blk-1910d057",
-          "type": "collection",
-          "version": 1,
-          "decor": false,
-          "hideMobile": false,
-          "props": {
-            "collection": "nyheter",
-            "view": "cards",
-            "limit": 6,
-            "newestFirst": true
-          },
-          "animation": null,
-          "frames": {
-            "desktop": {
-              "x": 5.56,
-              "y": 704,
-              "w": 88.89,
-              "h": 304,
-              "z": 3,
-              "rot": 0
-            },
-            "mobile": null
-          }
-        },
-        {
-          "id": "blk-8d71b38d",
-          "type": "collection",
-          "version": 1,
-          "decor": false,
-          "hideMobile": false,
-          "props": {
-            "collection": "publikasjoner",
-            "view": "cards",
-            "limit": 6,
-            "newestFirst": true
-          },
-          "animation": null,
-          "frames": {
-            "desktop": {
-              "x": 5.56,
-              "y": 1024,
-              "w": 88.89,
-              "h": 208,
-              "z": 5,
               "rot": 0
             },
             "mobile": null
@@ -297,8 +221,7 @@
             "location": "https://www.openstreetmap.org/#map=18/63.426891/10.396446",
             "lat": 63.426891,
             "lon": 10.396446,
-            "zoom": 18,
-            "height": 600
+            "zoom": 18
           },
           "animation": null,
           "frames": {
@@ -306,33 +229,8 @@
               "x": 53.01,
               "y": 1088,
               "w": 36.57,
-              "h": 608,
+              "h": 626,
               "z": 3,
-              "rot": 0
-            },
-            "mobile": null
-          }
-        },
-        {
-          "id": "blk-4c5e1c14",
-          "type": "collection",
-          "version": 1,
-          "decor": false,
-          "hideMobile": false,
-          "props": {
-            "collection": "oppslag",
-            "view": "cards",
-            "limit": 6,
-            "newestFirst": true
-          },
-          "animation": null,
-          "frames": {
-            "desktop": {
-              "x": 5.56,
-              "y": 32,
-              "w": 88.89,
-              "h": 208,
-              "z": 4,
               "rot": 0
             },
             "mobile": null
