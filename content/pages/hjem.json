@@ -138,7 +138,10 @@
             "showSignup": false,
             "design": "band",
             "nextCount": 3,
-            "laterCount": 3
+            "laterCount": 3,
+            "options": {
+              "reach": "page"
+            }
           },
           "animation": null,
           "frames": {

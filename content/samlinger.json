@@ -1,1 +1,8 @@
-{ "version": 1, "samlinger": ["nyheter"] }
+{
+  "version": 1,
+  "samlinger": [
+    "nyheter",
+    "oppslag",
+    "publikasjoner"
+  ]
+}
